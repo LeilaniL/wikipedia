@@ -16,3 +16,16 @@
 /*#searchbar {
 margin-right: 2px;
 }*/
+
+#panel-left {
+  width: 48%;
+  float: left;
+  margin: 1px;
+}
+
+#panel-right {
+  width:48%;
+  float: right;
+  margin: 1px;
+
+}
