@@ -57,3 +57,6 @@ img{
   float:left;
   margin-right:3px;
 }
+.panel {
+  border-radius: 0%;
+}
