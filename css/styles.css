@@ -5,10 +5,19 @@
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: white;
+  background-color: hsla(0, 0%, 92%, 1);
   overflow-x: hidden;
   padding-top: 20px;
   list-style: none;
+  border-right: 1px solid aqua;
+}
+.sidenav li {
+  line-height: 25px;
+  font-size: 12px;
+}
+hr {
+  border-color: black;
+  width: 75%;
 }
 .container{
   float
@@ -40,4 +49,11 @@ margin-right: 2px;
 }
 #panel-bottom-heading{
   background-color: hsla(285, 100%, 89%, 1);
+}
+#mainpage{
+  margin-right: 300px;
+}
+img{
+  float:left;
+  margin-right:3px;
 }
