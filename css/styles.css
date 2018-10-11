@@ -15,9 +15,13 @@
   line-height: 25px;
   font-size: 12px;
 }
+ul{
+  padding-left: 20px;
+}
 hr {
   border-color: black;
-  width: 75%;
+  width: 50%;
+  padding-left: 30px;
 }
 .container{
   float
